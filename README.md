@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi I'm Chris!
+
+I am currently a student at St. Clair College Studying Computer Programing
+
+I love creating software that helps people and improves their quality of life. 
+
+I especially love web development.
